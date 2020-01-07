@@ -20,7 +20,7 @@ Visual design inspired by ***Microsoft***:
 
 ### Database
 
-Create a file and paste above content, then fill out:
+Create a file called ***config.ini*** under root folder and paste above content, then fill out:
 ```
 [app]
 debug=true
@@ -34,7 +34,7 @@ host=localhost
 
 ### Vhost (for Nginx)
 
-Remember to set the root folder of your website to ***\public*** folder for **security reason**.
+Remember to set the root folder for visitors of your website to ***\public*** folder for **security reason**.
 ```
 server {
         listen       80;
