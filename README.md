@@ -5,12 +5,12 @@ A general template of user account center. Okay, fine! It's just something I cod
 It's halfway done, just for reference.
 
 ## Insipration
-Microsoft: login.live.com, account.microsoft.com
+Microsoft: [login.live.com](https://login.live.com), [account.microsoft.com](https://account.microsoft.com)
 
 ## Components
-Spectre CSS
-Flight PHP Framework
-JQuery
+- Spectre CSS
+- Flight PHP Framework
+- JQuery
 
 ## Configuration
 
