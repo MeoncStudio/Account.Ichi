@@ -61,7 +61,7 @@ database=
 host=localhost
 ```
 
-Create database:
+Create data tables in your destination database:
 ```
 
 CREATE TABLE IF NOT EXISTS `users` (
