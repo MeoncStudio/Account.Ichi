@@ -1,5 +1,7 @@
 # Account.Ichi
 
+![preview.png](https://i.loli.net/2020/01/07/HEUlBt8zOowqAjW.png)
+
 ## Wha-hh?
 A general template of user account center. Okay, fine! It's just something I coded but got cut...
 It's halfway done, just for reference.
