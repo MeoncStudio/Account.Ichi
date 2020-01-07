@@ -5,8 +5,9 @@ A general template of user account center. Okay, fine! It's just something I cod
 It's halfway done, just for reference.
 
 ## Inspiration
-Visual design inspired by Microsoft:  
-[login.live.com](https://login.live.com), [account.microsoft.com](https://account.microsoft.com)
+Visual design inspired by ***Microsoft***:  
+- [login.live.com](https://login.live.com)
+- [account.microsoft.com](https://account.microsoft.com)
 
 ## Components
 - Spectre CSS
@@ -29,8 +30,9 @@ database=
 host=localhost
 ```
 
-### Vhost
+### Vhost (for Nginx)
 
+Remember to set the root folder of your website to ***\public*** folder for **security reason**.
 ```
 server {
         listen       80;
