@@ -1,10 +1,14 @@
 # Account.Ichi
 
+## Preview
 ![preview.png](https://i.loli.net/2020/01/07/HEUlBt8zOowqAjW.png)
 
+Username: `test`  
+Password: `test`  
+
 ## Wha-hh?
-A general template of user account center. Okay, fine! It's just something I coded but got cut...
-It's halfway done, just for reference.
+A general template of user account center. Okay, fine! It's just something I coded but got cut...   
+It's halfway done(for now), just for reference.
 
 ## Inspiration
 Visual design inspired by ***Microsoft***:  
