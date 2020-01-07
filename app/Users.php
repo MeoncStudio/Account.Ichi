@@ -84,7 +84,7 @@ class Users extends Base
             if ($this->suspended) {
                 Flight::ret(406, "suspended account");
             } else {
-                Flight::ret(4032, "incorrect username or password");
+                Flight::ret(403, "incorrect username or password");
             }
             return;
         }
@@ -129,7 +129,7 @@ class Users extends Base
         if (!empty((array)$ret) && $username != "") {
             Flight::ret(200, "account exist", Array("nickname" => $ret->nickname));
         } else {
-            Flight::ret(4031, "incorrect account");
+            Flight::ret(409, "incorrect account");
         }
     }
 
