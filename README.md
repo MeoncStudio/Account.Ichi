@@ -54,7 +54,7 @@ server {
 
 ### Database
 
-Create a file called ***config.ini*** under root folder and paste above content, then fill out:
+Create a file called ***config.ini*** under root folder and paste content below, then fill out.
 ```
 [app]
 debug=true
