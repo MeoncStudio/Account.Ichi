@@ -6,11 +6,11 @@
 	<span>These terms and conditions (&quot;Terms&quot;, &quot;Agreement&quot;) are an agreement between Website
 		Operator (&quot;Website Operator&quot;, &quot;us&quot;, &quot;we&quot; or &quot;our&quot;) and you
 		(&quot;User&quot;, &quot;you&quot; or &quot;your&quot;). This Agreement sets forth the general terms and
-		conditions of your use of the <a target="_blank" rel="nofollow" href="http://wjhit.io">wjhit.io</a> website and
+		conditions of your use of the <a target="_blank" rel="nofollow" href=""></a> website and
 		any of its products or services (collectively, &quot;Website&quot; or &quot;Services&quot;).</span>
-	<span>这些条款和条件（“条款”，“协议”）是网站运营商（“网站运营商”，“我们”，“我们”或“我们的”）与您（“用户”，“您”或“您的”之间的协议“）。本协议规定了您使用wjhit.io网站及其任何产品或服务（统称为“网站”或“服务”）的一般条款和条件。
+	<span>这些条款和条件（“条款”，“协议”）是网站运营商（“网站运营商”，“我们”，“我们”或“我们的”）与您（“用户”，“您”或“您的”之间的协议“）。本协议规定了您使用网站及其任何产品或服务（统称为“网站”或“服务”）的一般条款和条件。
 	</span>
-	<span>這些條款和條件（「條款」，「協議」）是網站運營商（「網站運營商」，「我們」，「我們」或「我們的」）與您（「用戶」，「您」或「您的」之間的協議「）。本協議規定了您使用wjhit.io網站及其任何產品或服務（統稱為「網站」或「服務」）的一般條款和條件。
+	<span>這些條款和條件（「條款」，「協議」）是網站運營商（「網站運營商」，「我們」，「我們」或「我們的」）與您（「用戶」，「您」或「您的」之間的協議「）。本協議規定了您使用網站及其任何產品或服務（統稱為「網站」或「服務」）的一般條款和條件。
 	</span>
 </p>
 

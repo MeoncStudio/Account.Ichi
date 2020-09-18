@@ -67,7 +67,7 @@ Flight::render('_signin_footer', array(), 'footer');
 </div>
 
 <script>
-  document.title = $.i18n.prop("sign-in") + " - WJ HIT?";
+  document.title = $.i18n.prop("sign-in") + " - Ichi";
 
   $('.signin-step').hide();
   $('#username').fadeInRight().addClass('active');

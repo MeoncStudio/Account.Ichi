@@ -4,12 +4,12 @@
 <p>
 	<span>This cookie policy (&quot;Policy&quot;) describes what cookies are and how Website Operator (&quot;Website
 		Operator&quot;, &quot;we&quot;, &quot;us&quot; or &quot;our&quot;) uses them on the <a target="_blank"
-			rel="nofollow" href="http://wjhit.io">wjhit.io</a> website and any of its products or services
+			rel="nofollow" href=""></a> website and any of its products or services
 		(collectively, &quot;Website&quot; or &quot;Services&quot;).</span>
 	<span>此cookie政策（“政策”）描述了什么是cookie以及网站运营商（“网站运营商”，“我们”，“我们”或“我们的”）如何在<a target="_blank" rel="nofollow"
-			href="http://wjhit.io">wjhit.io</a>网站及其任何产品上使用它们。服务（统称“网站”或“服务”）。</span>
+			href=""></a>网站及其任何产品上使用它们。服务（统称“网站”或“服务”）。</span>
 	<span>此cookie政策（“政策”）描述了什麼是cookie以及網站運營商（“網站運營商”，“我們”，“我們”或“我們的”）如何在<a target="_blank" rel="nofollow"
-			href="http://wjhit.io">wjhit.io</a>網站及其任何產品上使用它們。服務（統稱“網站”或“服務”）。</span>
+			href=""></a>網站及其任何產品上使用它們。服務（統稱“網站”或“服務”）。</span>
 </p>
 
 <p>

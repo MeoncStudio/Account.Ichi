@@ -13,12 +13,12 @@
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<title>Terms</title>
-	<meta name="description" content="WJ HIT?" />
+	<meta name="description" content="Ichi" />
 	<meta name="robots" content="noindex,follow" />
 	<link href="https://unpkg.com/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
 	<link href="https://www.websitepolicies.com/assets/css/web/policies/view.min.css" rel="stylesheet"
 		type="text/css" />
-	<script src="https://unpkg.com/jquery"></script>
+	<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
 	<script src="https://unpkg.com/js-cookie"></script>
 	<script type="text/javascript" src="/js/bg-color.js"></script>
 	<link href="https://unpkg.com/flag-icon-css@3.4.5/css/flag-icon.min.css" rel="stylesheet">
